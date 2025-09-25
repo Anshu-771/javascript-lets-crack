@@ -1,0 +1,1 @@
+# Practice Related To Javascript Code ^_^
